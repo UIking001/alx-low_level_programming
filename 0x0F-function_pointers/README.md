@@ -4,10 +4,7 @@ An introductory project on:
 - function pointers and how to use them
 - contents of a function pointer
 - what function pointers point to in the virtual memory
-## Requirements
-- Ubuntu 14.04
-- gcc 4.8.4
-## File Descriptions
+
 ### Mandatory
 **[function_pointers.h](function_pointers.h)** - header file for [0-print_name.c](0-print_name.c), [1-array_iterator.c](1-array_iterator.c), and [2-int_index.c](2-int_index.c).
 
